@@ -9,8 +9,7 @@ if (number > 0 && number <= 12) {
 	} else if
 		(number <= 8) {
 		alert("Summer");
-	} else if
-		(number <= 11) {
+	} else {
 		alert("Autumn");
 	}
 } else {
