@@ -1,7 +1,7 @@
 let number = +prompt("Enter number:");
 
 if (number > 0 && number < 13) {
-	if (number <= 2 || number == 12) {
+	if (number <= 2 || number === 12) {
 		alert("Winter");
 	} else if
 		(number <= 5) {
