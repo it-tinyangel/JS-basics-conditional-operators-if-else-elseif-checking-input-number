@@ -1,5 +1,7 @@
 # Module 2. JS Programming Basics. Lesson 2. Task 3
 
+# Checking input number
+
 After receiving the number from the user:
 
 if the received number is within 1-12 inclusive, then the following conditions are checked:
